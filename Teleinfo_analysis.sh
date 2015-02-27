@@ -4,16 +4,18 @@
 # Auteur: Franck LARTIGUE                                              #
 #                                                                      #
 # Besoin:                                                              #
-#         extraire les données venent de mon compteur electrique et    #
+#         extraire les données venanta de mon compteur electrique et   #
 #         pouvoir les enregistrer et les envoyer vers un moyen         #
 #         d'analyse (DB + graphique, EmonCMS, Domoticz, ...)           #
 #                                                                      #
 # Developpements supplementaires :                                     #
 #         J'ai fait un script qui permet d'analyser tous les types     #
 #         d'abonnement (base, HCHP, EJP, Tempo)                        #
-#         du coup le script est un petit peu une usine agaz :(         #
+#         du coup le script est un petit peu une usine a gaz :(        #
+#                                                                      #
 #                                                                      #
 #To do:                                                                #
+#         Verifier la partie Tempo et EJP                              #
 #         Envoi vers EmonCMS                                           #
 #         Envoi vers Mysql                                             #
 #                                                                      #
