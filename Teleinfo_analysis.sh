@@ -4,7 +4,7 @@
 # Auteur: Franck LARTIGUE                                              #
 #                                                                      #
 # Besoin:                                                              #
-#         extraire les données venanta de mon compteur electrique et   #
+#         extraire les données venant de mon compteur electrique et    #
 #         pouvoir les enregistrer et les envoyer vers un moyen         #
 #         d'analyse (DB + graphique, EmonCMS, Domoticz, ...)           #
 #                                                                      #
