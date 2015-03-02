@@ -27,19 +27,6 @@
 #                                                                      #
 #                                                                      #
 ########################################################################
-#Log:
-#2015 02 19 10 15 - ajout historique trame pour debugging
-#
-#2015 02 19 11 23 - remplacement des tail par des head: si la trame est imcomplete on obtient un valeur imcomplete ... avec head on a quasi aucun risque car si la trame est imcomplete c est l entete de la lign equi est imcomplete et donc non pris en compte pour la recherche de la valeur
-#
-#2015 02 19 11 59 - adps=`cat $file.trame | grep ADPS | head -n 1 | cut -f2 -d' '` # pas fonctionnel seul car la valeur n'apparait dans la trame que si necessaire
-#
-#2015 02 19 12 22 - check sur la presence de adps avant de faire la recherche
-#
-#
-#
-########################################################################
-
 
 #!/bin/bash
 
